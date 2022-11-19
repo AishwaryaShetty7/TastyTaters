@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://tastytatersbackend.nyabwansufred.repl.co/) her
 1. Git Clone
 
 ```
-git clone https://github.com/WilfredNyangweso/Tasty-Taters.git
+git clone https://github.com/AishwaryaShetty7/TastyTaters.git
 ```
 
 2. Backend setting
